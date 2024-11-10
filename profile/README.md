@@ -1,6 +1,6 @@
 # Lueur AI 🤖✨
 
-Welcome to the official Lueur AI GitHub! This repository contains resources, tools, and code to enhance your experience with Lueur AI, a powerful platform for generating engaging content and social media videos. 🚀
+Welcome to the official Lueur AI GitHub!🚀
 
 ## 💡 What is Lueur AI?
 Lueur AI is a versatile tool that helps creators generate stunning social media content quickly and easily. It offers various features like no-text videos, static caption videos, URL-based videos, and voiceover videos—all optimized for maximum engagement. 🎥📱
