@@ -19,4 +19,5 @@ Lueur AI is a versatile tool that helps creators generate stunning social media 
 4. **Download and Share**: Once your video is generated, download it and share it on your social media channels.
 
 For more detailed instructions, visit our [Free AI Social Media Course](https://whop.com/lueur-ai/) 🎓.
+
 [Also be sure to join our server!](https://dsc.gg/lueur/)
